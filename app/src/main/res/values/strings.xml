@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseNotificationTask</string>
+    <string name="msg_token_fmt">Token</string>
+</resources>

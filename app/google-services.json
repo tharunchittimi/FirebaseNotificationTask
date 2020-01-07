@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898084483542",
+    "firebase_url": "https://rio-app-28cdc.firebaseio.com",
+    "project_id": "rio-app-28cdc",
+    "storage_bucket": "rio-app-28cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898084483542:android:f13fcaed7c685d3dbbb477",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotificationtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898084483542-vjokgtjt9fu9vrsk0i1b014cuf3os9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIQ5kgoVwA0tfHX78-Vwbj_1fp8T9FcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898084483542-vjokgtjt9fu9vrsk0i1b014cuf3os9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
